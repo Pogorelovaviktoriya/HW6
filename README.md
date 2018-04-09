@@ -25,4 +25,5 @@
 * Задание 3.
 
 ![alt text](https://github.com/Pogorelovaviktoriya/HW6/blob/master/90070087-E516-4032-8806-3ABC65FF9B48.jpeg)
+
 В Google Ngrams резкого роста не наблюдаетеся, в то время как в BNC он есть (с 0 до 304%).
