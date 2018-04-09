@@ -21,3 +21,7 @@
 ![alt text](https://github.com/Pogorelovaviktoriya/HW6/blob/master/D3602CC0-26CB-40FE-BE2C-9B5E9ECBEE92.jpeg)
 
 Слова "Man" и "Yesterday" могут употребляться как со словом Say, так и с Tell. Слово "Word" в свою очередь может употребляться только со словом Say, а употребление слова "Storey" возможно только со словом Tell.
+
+* Задание 3.
+
+![alt text](https://github.com/Pogorelovaviktoriya/HW6/blob/master/90070087-E516-4032-8806-3ABC65FF9B48.jpeg)
