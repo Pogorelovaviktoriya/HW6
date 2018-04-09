@@ -12,7 +12,9 @@
 
 ## ЧАСТЬ 2.
 * Задание 1.
+
 ![alt text](https://github.com/Pogorelovaviktoriya/HW6/blob/master/AB9B3FAE-728B-4126-BBC7-B3D193409998.jpeg)
 
 * Задание 2.
 ![alt text](https://github.com/Pogorelovaviktoriya/HW6/blob/master/D4E4AF2F-12FB-46F9-83D3-8D191FA28CF6.jpeg)
+![alt text](https://github.com/Pogorelovaviktoriya/HW6/blob/master/D3602CC0-26CB-40FE-BE2C-9B5E9ECBEE92.jpeg)
